@@ -1,0 +1,167 @@
+coffe-kada
+├── .vscode
+│   └── settings.json
+├── coffee
+│   ├── choco
+│   │   ├── 1.webp
+│   │   ├── 2.webp
+│   │   ├── 3.jpg
+│   │   ├── 4.jpg
+│   │   ├── 5.jpg
+│   │   ├── cchoco12.jpg
+│   │   ├── choco1.jpg
+│   │   ├── choco10.jpg
+│   │   ├── choco11.jpg
+│   │   ├── choco2.jpg
+│   │   ├── choco3.jpg
+│   │   ├── choco4.webp
+│   │   ├── choco5.jpg
+│   │   ├── choco6.jpg
+│   │   ├── choco7.webp
+│   │   ├── choco8.jpg
+│   │   ├── choco9.jpg
+│   │   ├── flight.webp
+│   │   ├── r1.jpg
+│   │   ├── r2.jpg
+│   │   ├── r3.jpg
+│   │   ├── r4.jpg
+│   │   ├── r5.jpg
+│   │   ├── r6.jpg
+│   │   ├── r7.jpg
+│   │   ├── r8.jpg
+│   │   ├── travel
+│   │   │   ├── f2.webp
+│   │   │   ├── f3.webp
+│   │   │   ├── f4.webp
+│   │   │   ├── flight.webp
+│   │   │   └── Travel
+│   │   │       ├── bounce.jpg
+│   │   │       ├── bounce2.jpg
+│   │   │       ├── g.jpg
+│   │   │       ├── g1.jpg
+│   │   │       ├── g2.jpg
+│   │   │       ├── g4.webp
+│   │   │       ├── g5.jpg
+│   │   │       ├── g7.jpg
+│   │   │       ├── g8.jpg
+│   │   │       ├── g9.jpg
+│   │   │       ├── hoells5.jpg
+│   │   │       ├── hotel.avif
+│   │   │       ├── hotell.jpeg
+│   │   │       ├── pp1.jpg
+│   │   │       ├── pp11.jpg
+│   │   │       ├── pp2.jpg
+│   │   │       ├── pp4.jpg
+│   │   │       ├── pp6.jpg
+│   │   │       ├── pp7.jpg
+│   │   │       ├── pp8.jpg
+│   │   │       ├── pp9.jpg
+│   │   │       ├── R1.jpg
+│   │   │       ├── R10.jpg
+│   │   │       ├── R11.jpg
+│   │   │       ├── R2.jpg
+│   │   │       ├── R3.jpg
+│   │   │       ├── R4.jpg
+│   │   │       ├── R5.jpg
+│   │   │       ├── R6.jpg
+│   │   │       ├── R7.jpg
+│   │   │       ├── R8.jpg
+│   │   │       ├── t1.jpg
+│   │   │       ├── t2.jpg
+│   │   │       ├── t3.jpg
+│   │   │       ├── t5.jpg
+│   │   │       ├── t6.jpg
+│   │   │       ├── t7.jpg
+│   │   │       ├── t8.jpg
+│   │   │       └── t9.jpg
+│   │   ├── wal.jpg
+│   │   └── walchoco.jpg
+│   ├── cofee
+│   │   ├── coffee1.jpg
+│   │   ├── coffee10.jpg
+│   │   ├── coffee11.jpg
+│   │   ├── coffee12.png
+│   │   ├── coffee13.webp
+│   │   ├── coffee14.jpg
+│   │   ├── coffee15.jpg
+│   │   ├── coffee16.jpg
+│   │   ├── coffee17.webp
+│   │   ├── coffee18.jpg
+│   │   ├── coffee19.jpg
+│   │   ├── coffee2.jpg
+│   │   ├── coffee20.jpg
+│   │   ├── coffee21.jpg
+│   │   ├── coffee22.jpg
+│   │   ├── coffee3.jpg
+│   │   ├── coffee4.jpg
+│   │   ├── coffee5.jpg
+│   │   ├── coffee6.jpg
+│   │   ├── coffee7.webp
+│   │   ├── coffee8.jpg
+│   │   └── coffee9.jpg
+│   ├── ice
+│   │   ├── 1.jpg
+│   │   ├── 10.jpg
+│   │   ├── 11.jpg
+│   │   ├── 12.jpg
+│   │   ├── 2.jpg
+│   │   ├── 3.jpg
+│   │   ├── 4.jpg
+│   │   ├── 5.jpg
+│   │   ├── 6.jpg
+│   │   ├── 7.jpg
+│   │   ├── 8.jpg
+│   │   ├── 9.jpg
+│   │   ├── chocream1.jpg
+│   │   ├── chocream10.jpg
+│   │   ├── chocream11.webp
+│   │   ├── chocream12.jpg
+│   │   ├── chocream2.jpg
+│   │   ├── chocream3.jpg
+│   │   ├── chocream4.jpg
+│   │   ├── chocream5.jpg
+│   │   ├── chocream6.jpg
+│   │   ├── chocream7.jpg
+│   │   ├── chocream8.jpg
+│   │   ├── chocream9.webp
+│   │   ├── ice walpaper.jpg
+│   │   └── walice.jpg
+│   └── review
+│       ├── ai-generated-8521475_640.webp
+│       ├── chocowal.jpg
+│       ├── icon cofee.jpg
+│       ├── icon cofee.webp
+│       ├── review11.jpg
+│       ├── review12.jpg
+│       ├── review13.webp
+│       ├── review14.jpg
+│       ├── review15.jpg
+│       ├── review16.jpg
+│       ├── review17.jpg
+│       ├── review22.jpg
+│       ├── review25.jpg
+│       ├── review26.jpg
+│       ├── review27.jpg
+│       ├── review28.webp
+│       ├── review3.webp
+│       ├── review33.jpg
+│       ├── review4.jpg
+│       ├── review5.jpg
+│       ├── review55.jpg
+│       ├── review6.jpg
+│       ├── review66.jpg
+│       ├── review7.jpg
+│       ├── review8.jpg
+│       ├── review9.jpg
+│       ├── reviewhol.jpg
+│       ├── reviewhol1.jpg
+│       └── wp9906497-coffee-and-autumn-computer-wallpapers.jpg
+├── css
+│   ├── choco.css
+│   ├── coffee Net.css
+│   └── ice.css
+├── html
+│   ├── choco.html
+│   └── ice.html
+├── index.html
+└── README.md
